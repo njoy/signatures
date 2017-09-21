@@ -1,0 +1,14 @@
+{
+"git": {
+"fmt-adapter": "42ebd36bd726362b8cb053aa9b83ebb9aae4a1bb", 
+"Log": "65d656f8591a465f789f7f8db9563a46941b3f07", 
+"variant-adapter": "81d7742ce710f8c72574a62c70fdd6342a8c4d38", 
+"ENDFtk": "4aea1f5adc94f6386c8fb79a8cb0e0e1017022c0", 
+"range-v3-adapter": "2818756ffa250bec1e3586c8a333b1938f3c7886", 
+"header-utilities": "5b9aa3dc1bb45a6d35a32faadca2110b4111d5d8", 
+"disco": "f1f2fdf450c3b858c9c8443a25d14a34a61b6f53", 
+"catch-adapter": "c1be81a0838769e0e0bc93ae0961f9bff471db29", 
+"spdlog-adapter": "f64782e99c20a959febd1dee4f2a1a4eca8c23f0", 
+"hopscotch-map-adapter": "18f07aaf00604c27ca3d0eeccdb25c2668fe37ad"
+}
+}
