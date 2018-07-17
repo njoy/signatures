@@ -4,7 +4,7 @@ A collection of signature files for NJOY projects. A signature file is a JSON fi
 ## Generating Signatures
 Signatures are created using [metaconfigure](https://github.com/njoy/metaconfigure):
 
-    metaconfigure/signatures.py
+    metaconfigure/signatures.py <filename>
 
 Metaconfigure is a package used by all of NJOY projects that will generate the files necessary to build the project.
 
