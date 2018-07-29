@@ -1,0 +1,10 @@
+{
+"git": {
+"fmt-adapter": "e53fcbaaa724a4ae539708887fabd47d96d90be3", 
+"Log": "516a97bb2b2a1ff8967e784e9d1ae4b3acb29756", 
+"header-utilities": "744e1feb2d050d90be9668ce4b445eeed3861577", 
+"spdlog-adapter": "2f6569f76bf224121301b8b34bf7760f3f1abe15", 
+"catch-adapter": "c1be81a0838769e0e0bc93ae0961f9bff471db29", 
+"utility": "361c72300422aa1c9e7b00cf9be3b6c885871a40"
+}
+}
