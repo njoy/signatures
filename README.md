@@ -4,6 +4,7 @@ A collection of signature files for NJOY projects. A signature file is a JSON fi
 ## Projects
 So far, we are automatically generating signatures for these projects whenever a change is made to the master (i.e., production) branch:
 
+- [NJOY21](https://github.com/njoy/NJOY21)
 - [NJOY2016](https://github.com/njoy/NJOY2016)
 - [ENDFtk](https://github.com/njoy/ENDFtk)
 - [utilities](https://github.com/njoy/utilities)
