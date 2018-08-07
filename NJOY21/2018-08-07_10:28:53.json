@@ -1,0 +1,21 @@
+{
+"git": {
+"fmt-adapter": "e53fcbaaa724a4ae539708887fabd47d96d90be3", 
+"njoy": "580dc755740307e422fc96d17b60b7e5459575e8", 
+"utility": "361c72300422aa1c9e7b00cf9be3b6c885871a40", 
+"hopscotch-map-adapter": "18f07aaf00604c27ca3d0eeccdb25c2668fe37ad", 
+"variant-adapter": "81d7742ce710f8c72574a62c70fdd6342a8c4d38", 
+"tclap-adapter": "4b2c1f3e70398d26d661772733a272208233c644", 
+"ENDFtk": "67bf15b510ab42a49ed4052e3d878be276db0c65", 
+"range-v3-adapter": "32c5fa74db9fddfaa1a1d6472e3a80627b4fcfd7", 
+"header-utilities": "744e1feb2d050d90be9668ce4b445eeed3861577", 
+"disco": "3e9a4ea8ae0d2dcb3aaa71ec386bb66f13cac460", 
+"hana-adapter": "f3b9a2b3b2f0289d774f2fae364e185779172732", 
+"catch-adapter": "c1be81a0838769e0e0bc93ae0961f9bff471db29", 
+"dimwits": "d60ddddf82f3f77b566d11383c0c633b4414556e", 
+"spdlog-adapter": "2f6569f76bf224121301b8b34bf7760f3f1abe15", 
+"NJOY21": "a715609bc27d3e724d0cb68d5bf1df3a42c016e1", 
+"njoy_c_bindings": "6e62367294c8a152dad3b567022b5a27d2755353", 
+"Log": "516a97bb2b2a1ff8967e784e9d1ae4b3acb29756"
+}
+}
