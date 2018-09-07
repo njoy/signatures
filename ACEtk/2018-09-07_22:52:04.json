@@ -1,0 +1,17 @@
+{
+"git": {
+"fmt-adapter": "e53fcbaaa724a4ae539708887fabd47d96d90be3", 
+"Log": "516a97bb2b2a1ff8967e784e9d1ae4b3acb29756", 
+"variant-adapter": "81d7742ce710f8c72574a62c70fdd6342a8c4d38", 
+"range-v3-adapter": "32c5fa74db9fddfaa1a1d6472e3a80627b4fcfd7", 
+"header-utilities": "744e1feb2d050d90be9668ce4b445eeed3861577", 
+"disco": "3e9a4ea8ae0d2dcb3aaa71ec386bb66f13cac460", 
+"hana-adapter": "f3b9a2b3b2f0289d774f2fae364e185779172732", 
+"catch-adapter": "c1be81a0838769e0e0bc93ae0961f9bff471db29", 
+"interpolation": "8fba1c044b5f69e912fc89ae30a19990893d5d53", 
+"date-adapter": "a8c8d7afc98710919bd9ead6fe60057cac03aa45", 
+"spdlog-adapter": "2f6569f76bf224121301b8b34bf7760f3f1abe15", 
+"dimwits": "d60ddddf82f3f77b566d11383c0c633b4414556e", 
+"ACEtk": "326ce27353e8e080bcd39e79da1ad5912d95747c"
+}
+}
