@@ -7,7 +7,8 @@ So far, we are automatically generating signatures for these projects whenever a
 - [NJOY21](https://github.com/njoy/NJOY21)
 - [NJOY2016](https://github.com/njoy/NJOY2016)
 - [ENDFtk](https://github.com/njoy/ENDFtk)
-- [utilities](https://github.com/njoy/utilities)
+- [ACEtk](https://github.com/njoy/ACEtk)
+- [utility](https://github.com/njoy/utility)
 - [header-utilities](https://github.com/njoy/header-utilities)
 - [njoy_c_bindings](https://github.com/njoy/njoy_c_bindings)
 
@@ -19,6 +20,16 @@ Signatures are created using [metaconfigure](https://github.com/njoy/metaconfigu
 
 Metaconfigure is a package used by all of NJOY projects that will generate the files necessary to build the project.
 
+## Using a signature
+To use a signature to checkout and build a project at a previous point in time, do the following&mdash;after cloning the repository:
+
+```bash
+./metaconfigure/fetch_subprojects.py <signature_file.json>
+
+# Configure
+cmake -D fetched_subprojects=true </path/to/CMakeLists.txt>
+```
+After the project has been configured, continue to build/test/install the project as before.
 
 ## License
 This software is distributed according to the terms specified in the [LICENSE](LICENSE) file.
