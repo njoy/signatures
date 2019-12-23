@@ -1,5 +1,25 @@
-{
+ {
 "git": {
-"header-utilities": "c46939b3530b14ec9b06c5deaaeeadbaad4a2bdc"
+"NJOY21": "e16fbd5a8e0428e6d68979836003e9057a6ab744",
+"range-v3-adapter": "e8b1fb8a3e0ca6834b90d1fe2ddd0be611e3d71c",
+"ENDFtk": "37698f7f44363de67055cc46f6d3e84223fa697e",
+"catch-adapter": "1d7b4f71a7f0a182cc7d3b1f9a2d0765706e0a96",
+"disco": "3e9a4ea8ae0d2dcb3aaa71ec386bb66f13cac460",
+"hana-adapter": "f3b9a2b3b2f0289d774f2fae364e185779172732",
+"pdqsort-adapter": "4da5dec7cc809a1b97c40a1fac4202565c08de7e",
+"fmt-adapter": "e53fcbaaa724a4ae539708887fabd47d96d90be3",
+"spdlog-adapter": "2f6569f76bf224121301b8b34bf7760f3f1abe15",
+"tclap-adapter": "4b2c1f3e70398d26d661772733a272208233c644",
+"Log": "516a97bb2b2a1ff8967e784e9d1ae4b3acb29756",
+"njoy_c_bindings": "487beb0e84cce62ff1b4c0864a000ff7c1f7f5d3",
+"header-utilities": "c46939b3530b14ec9b06c5deaaeeadbaad4a2bdc",
+"twig": "a6f2e526745f3e0192a08e839e7c3a2b0e2569a5",
+"variant-adapter": "81d7742ce710f8c72574a62c70fdd6342a8c4d38",
+"lipservice": "195c5783d85df11af5dbd64459edd06eb8a4c090",
+"json-adapter": "272a8a409d826c3e9df82035865fcc350a4cdd14",
+"RECONR": "1133e46ab91e0a16eaa7a280cb12fd316c51a2fe",
+"dimwits": "d60ddddf82f3f77b566d11383c0c633b4414556e",
+"utility": "361c72300422aa1c9e7b00cf9be3b6c885871a40",
+"njoy": "e2d4c849db17835a865a2164896c268849aec085"
 }
-}
+} 
