@@ -1,0 +1,21 @@
+ {
+"git": {
+"NJOY21": "a3d5815985df1e5864017265792566dd036288b5",
+"range-v3-adapter": "e8b1fb8a3e0ca6834b90d1fe2ddd0be611e3d71c",
+"catch-adapter": "fb84b82ebf7a4789aa43cea560680cf745c6ee4f",
+"disco": "61450957fc76c64f55b2b21f3f10c38d57e8afef",
+"hana-adapter": "47c16611ec5f592790d722d589d780dc77e1eb53",
+"fmt-adapter": "a6db6c8cf9534b028eb3dea4549934f7ae6abf9f",
+"spdlog-adapter": "6293a82f2a8fedfb62a3f35e15d2dc2d24901f87",
+"tclap-adapter": "4b2c1f3e70398d26d661772733a272208233c644",
+"njoy_c_bindings": "487beb0e84cce62ff1b4c0864a000ff7c1f7f5d3",
+"header-utilities": "cfeaea456accd695b0a30ba52138c5c368cb7690",
+"ENDFtk": "f42641b45cf4ba332fc8434e31c712fee2841dc2",
+"lipservice": "35d79409ab116e6021b7444a7d07c6716768470e",
+"json-adapter": "3446af7471bb8b3a01326624d35f6dd1fe0ed508",
+"Log": "0bdd885bb9da924d876db2e240157a420abf97f0",
+"dimwits": "d2b187ef57addd5e821c297cdef1ab2c914858a6",
+"utility": "c97d057b3c27286021d3c69abd7dfafb7cf6089f",
+"njoy": "d0cab9119a68104fb0ae8f4f57248181565ce218"
+}
+} 
